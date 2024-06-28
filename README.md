@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Byoung Ju Kim👋
 
 <!--
 **qudwn1114/qudwn1114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
